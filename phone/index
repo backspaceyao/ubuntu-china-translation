@@ -1,96 +1,4 @@
 =====
-[243] Ubuntu certified
------
-Ubunt认证
-=====
-[11832] Learn about working with us ›
------
-了解与我们合作
-=====
-[11833] Everything developers need
------
-开发人员所需的一切
-=====
-[11834] Learn more about developing apps ›
------
-了解更多关于应用程序开发
-=====
-[11839] Find out when it’s here
------
-在这里找到想要的
-=====
-[11840] If you’re not in the mobile industry, but you’re as excited as we are about Ubuntu on smartphones, we can let you know when the first phone is released.
------
-如果你并未身处移动行业，但你对智能机上的Ubuntu系统很感兴趣，那么当我们发布第一个手机版Ubuntu系统的时候，我们一定通知你。
-=====
-[11841] Register to find out first ›
------
-注册来获取第一手资讯
-=====
-[12441] Start building now
------
-现在开始行动吧！
-=====
-[15008] Introducing the Carrier Advisory Group
------
-运营咨询小组简介
-=====
-[15009] The Carrier Advisory Group enables mobile operators to shape Ubuntu’s product development, and provides the opportunity to be a potential launch partner.
------
-我们的运营咨询小组使移动运营商更好的应用Ubuntu的产品，并提供机会使其成为一个潜在的产品发布伙伴。
-=====
-[15010] Read more about the CAG ›
------
-了解更多关于CAG
-=====
-[15045] The record-breaking Ubuntu Edge
------
-将要破纪录的Ubuntu
-=====
-[31793] Ubuntu on phones | Ubuntu
------
-手机上的Ubuntu | Ubuntu
-=====
-[31914] Mobile carriers, phone manufacturers and ISVs, contact us and get the commercial and technical lowdown on Ubuntu for phones.
------
-移动运营商，手机制造商和独立软件开发商，可以联系我们并得到关于手机Ubuntu系统在商业和技术上的内部消息。
-=====
-[31915] Get in touch today ›
------
-现在就联系我们
-=====
-[31916] Watch the Ubuntu phone video
------
-观看Ubuntu手机视频
-=====
-[31917] Ubuntu phone press release ›
------
-Ubuntu手机新闻
-=====
-[31944] We’re mobile industry ready
------
-我们准备好了进军手机产业
-=====
-[31945] Ubuntu brings a fast and beautiful experience to any phone.
------
-Ubuntu可以在任何手机上都能带来更快、更好的体验。
-=====
-[31946] Install Ubuntu for phones
------
-安装Ubuntu手机系统
-=====
-[31947] for developers and industry partners only
------
-只针对开发人员和行业合作伙伴
-=====
-[31948] Feature complete
------
-功能齐全
-=====
-[31949] Learn more about Ubuntu's features ›
------
-了解更多关于Ubuntu手机的特性
-=====
 [31950] Ready for your phone
 -----
 
@@ -147,9 +55,21 @@ Ubuntu
 -----
 Ubuntu Advantage计划
 =====
+[31945] Ubuntu brings a fast and beautiful experience to any phone.
+-----
+Ubuntu在任何手机上都能带来更快、更好的体验。
+=====
 [28] Ubuntu for Android
 -----
 Ubuntu安卓版
+=====
+[31917] Ubuntu phone press release ›
+-----
+Ubuntu手机新闻 ›
+=====
+[243] Ubuntu certified
+-----
+Ubunt认证
 =====
 [12543] ›
 -----
@@ -170,6 +90,22 @@ Ubuntu安卓版
 [8476] Learn more about Canonical ›
 -----
 了解Canonical
+=====
+[11832] Learn about working with us ›
+-----
+了解如何与我们合作 ›
+=====
+[31949] Learn more about Ubuntu's features ›
+-----
+了解更多关于Ubuntu手机的特性
+=====
+[11834] Learn more about developing apps ›
+-----
+了解更多关于应用程序开发
+=====
+[15010] Read more about the CAG ›
+-----
+了解更多关于运营商咨询小组 ›
 =====
 [31761] Cloud labs
 -----
@@ -203,6 +139,14 @@ Ubuntu安卓版
 -----
 功能和规格
 =====
+[31948] Feature complete
+-----
+功能齐全
+=====
+[31947] for developers and industry partners only
+-----
+只针对开发人员和行业合作伙伴
+=====
 [13879] Partners:
 -----
 合作伙伴：
@@ -219,13 +163,29 @@ Ubuntu安卓版
 -----
 回到顶部
 =====
+[11839] Find out when it’s here
+-----
+在这里找到想要的
+=====
+[11840] If you’re not in the mobile industry, but you’re as excited as we are about Ubuntu on smartphones, we can let you know when the first phone is released.
+-----
+如果你并未身处移动行业，但你对智能机上的Ubuntu系统很感兴趣，那么当我们发布第一个手机版Ubuntu系统的时候，我们一定通知你。
+=====
 [59] Security notices
 -----
 安全公告
 =====
+[31946] Install Ubuntu for phones
+-----
+安装Ubuntu手机系统
+=====
 [84] Find a partner
 -----
 寻找合作伙伴
+=====
+[15045] The record-breaking Ubuntu Edge
+-----
+将要破纪录的Ubuntu Edge
 =====
 [13866] Tablet
 -----
@@ -239,9 +199,25 @@ Ubuntu安卓版
 -----
 开发人员将得到他们需要的全力支持
 =====
+[11833] Everything developers need
+-----
+开发人员所需的一切
+=====
+[31944] We’re mobile industry ready
+-----
+我们已经为手机产业准备好了
+=====
+[15009] The Carrier Advisory Group enables mobile operators to shape Ubuntu’s product development, and provides the opportunity to be a potential launch partner.
+-----
+我们的运营咨询小组使移动运营商更好的应用Ubuntu的产品，并提供机会使其成为一个潜在的产品发布伙伴。
+=====
 [13865] Phone
 -----
 手机
+=====
+[31793] Ubuntu on phones | Ubuntu
+-----
+手机上的Ubuntu | Ubuntu
 =====
 [10337] Compliance
 -----
@@ -299,6 +275,10 @@ Ubuntu安卓版
 -----
 法律信息
 =====
+[11841] Register to find out first ›
+-----
+注册来获取第一手资讯
+=====
 [4] Take the tour
 -----
 浏览更多内容
@@ -310,6 +290,14 @@ Ubuntu安卓版
 [6] Features
 -----
 特点
+=====
+[31915] Get in touch today ›
+-----
+现在就联系我们 ›
+=====
+[12441] Start building now
+-----
+现在开始行动吧！
 =====
 [31760] Ecosystem
 -----
@@ -335,6 +323,10 @@ Ubuntu安卓版
 -----
 社区支持
 =====
+[31914] Mobile carriers, phone manufacturers and ISVs, contact us and get the commercial and technical lowdown on Ubuntu for phones.
+-----
+移动运营商，手机制造商和独立软件开发商，可以联系我们并得到关于手机Ubuntu系统在商业和技术上的内部消息。
+=====
 [10457] Management
 -----
 管理
@@ -359,6 +351,10 @@ Ubuntu安卓版
 -----
 行业
 =====
+[31916] Watch the Ubuntu phone video
+-----
+观看Ubuntu手机视频
+=====
 [11826] Design
 -----
 设计
@@ -370,6 +366,10 @@ Ubuntu安卓版
 [14897] Carrier Advisory Group
 -----
 运营商咨询小组
+=====
+[15008] Introducing the Carrier Advisory Group
+-----
+运营商咨询小组简介
 =====
 [10799] Jump to content
 -----
